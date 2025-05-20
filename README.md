@@ -1,4 +1,4 @@
-# Awesome-Remote-Sensing
+# Awesome-One-Step-Diffusion
 
 This repository contains one-step diffusion papers on top conference from 2022 to 2025.
 
@@ -27,6 +27,15 @@ This repository contains one-step diffusion papers on top conference from 2022 t
 - [ICLR 2025](https://arxiv.org/abs/2504.15513) InstaRevive: One-Step Image Enhancement via Dynamic Score Matching 
 - [ICLR 2025](https://arxiv.org/abs/2412.17153) Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching 
 - [ICLR 2025](https://arxiv.org/abs/2406.01561) Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation 
+- [ICML 2025](https://arxiv.org/abs/2502.00333) BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution 
+- [ICML 2025](https://icml.cc/virtual/2025/poster/44635) Revisiting Diffusion Models: From Generative Pre-training to One-Step Generation 
+- [ICML 2025](https://arxiv.org/abs/2502.01411) Human Body Restoration with One-Step Diffusion Model and A New Benchmark 
+- [ICML 2025](https://icml.cc/virtual/2025/poster/45152) One-Step Generalization Ratio Guided Optimization for Domain Generalization 
+- [ICML 2025](https://github.com/luolundashu/OmiAD) OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation 
+- [ICML 2025](https://icml.cc/virtual/2025/poster/46154) David and Goliath: Small One-step Model Beats Large Diffusion with Score Post-training 
+- [ICML 2025](https://arxiv.org/abs/2501.08316) Diffusion Adversarial Post-Training for One-Step Video Generation 
+- [ICML 2025](https://arxiv.org/abs/2502.09609) ScoreMix: One-Step Generative Model Training Made Simple via Score Estimation of Mixture Distributions 
+- [ICML 2025](https://arxiv.org/abs/2410.21257) One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation 
 
 
 ### 2024
@@ -37,6 +46,7 @@ This repository contains one-step diffusion papers on top conference from 2022 t
 - [ICLR 2024](https://openreview.net/forum?id=7hxoYxKDTV) Continuous-Multiple Image Outpainting in One-Step via Positional Query and A Diffusion-based Approach 
 - [ICLR 2024](https://openreview.net/forum?id=8p3fu56lKc) One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention 
 - [ICLR 2024](https://openreview.net/forum?id=1k4yZbbDqX) InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation 
+- [ICML 2024](https://proceedings.mlr.press/v235/zhou24x.html) Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation 
 - [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a8223b0ad64007423ffb308b0dd92298-Abstract-Conference.html) One-Step Effective Diffusion Network for Real-World Image Super-Resolution 
 - [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d107ca794d83c8242e357e6a43a068f4-Abstract-Conference.html) One-Step Diffusion Distillation through Score Implicit Matching 
 - [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4fac0e32088db2fd2948cfaacc4fe108-Abstract-Conference.html) EM Distillation for One-step Diffusion Models 
