@@ -36,6 +36,7 @@ This repository contains one-step diffusion papers on top conference from 2022 t
 - [ICML 2025](https://arxiv.org/abs/2501.08316) Diffusion Adversarial Post-Training for One-Step Video Generation 
 - [ICML 2025](https://arxiv.org/abs/2502.09609) ScoreMix: One-Step Generative Model Training Made Simple via Score Estimation of Mixture Distributions 
 - [ICML 2025](https://arxiv.org/abs/2410.21257) One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation 
+- [ICML 2025](https://arxiv.org/abs/2502.01993) One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation 
 
 
 ### 2024
